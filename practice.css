@@ -1,12 +1,12 @@
-table,th,td {
+/* table,th,td {
     border: 1px solid black;
     border-collapse: collapse;
 
-}
+} */
 /* th{
     /* To give particular size to the table column */
     /* width: 50%; */
- 
+/*  
 td{
     text-align: center;
 }
@@ -35,4 +35,9 @@ ul {
   }
   li:hover{
     background-color: blue;
-  }
+  } */
+
+
+#fname,#lname,#email {
+    margin-bottom: 20px;
+}
